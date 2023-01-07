@@ -1,0 +1,13 @@
+.container{
+    margin-top: 1rem;
+    background-color: green;
+}
+.jumbotron{
+    background-color: greenyellow;
+}
+.heading{
+    color: green;
+}
+.footer1{
+    align-items: flex-start;
+}
